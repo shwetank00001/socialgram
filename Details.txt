@@ -1,0 +1,16 @@
+Appwrite
+
+we are using this for backend app- A robust, ecure and scalable app.
+
+For auth
+We will use Auth using ID, Pass, Login with an acocunt(fb, ig, l;inkeind)
+
+For Db-
+We can create a Database here aswell.
+We can have many collections and each collection can have multiple attributes.
+
+Storage-
+We can use online storages too.
+
+
+

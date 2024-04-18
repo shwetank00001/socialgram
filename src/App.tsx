@@ -1,10 +1,13 @@
-import React from 'react'
-import './globals.css'
+import "./globals.css";
+import tailwindcss from "tailwindcss";
 
 const App = () => {
-  return (
-    <div>App123</div>
+    return (
+    <h1 className="border-3">
+      Hello world!
+    </h1>
   )
-}
 
-export default App
+};
+
+export default App;
